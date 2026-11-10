@@ -1,0 +1,4002 @@
+{
+  "schemaVersion": "1.0",
+  "generatedAt": "2026-11-04T12:55:39.250911+00:00",
+  "status": "PENDING_ADMIN_REVIEW",
+  "description": "Collecte EES et programmes. Aucune insertion en base de données.",
+  "records": [
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université des Montagnes de Bangangté",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bangangté",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université des Montagnes de Bangangté",
+          "category": "universites",
+          "evidence": "Université des Montagnes de Bangangté",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université Yaoundé Sud Joseph Ndi Samba",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université Yaoundé Sud Joseph Ndi Samba",
+          "category": "universites",
+          "evidence": "Université Yaoundé Sud Joseph Ndi Samba",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université protestante Edwin Cozzens, Ebolowa - Elat",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Ebolowa",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université protestante Edwin Cozzens, Ebolowa - Elat",
+          "category": "universites",
+          "evidence": "Université protestante Edwin Cozzens, Ebolowa - Elat",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université adventiste Cosendai de Nanga-Eboko",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Nanga-Eboko",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université adventiste Cosendai de Nanga-Eboko",
+          "category": "universites",
+          "evidence": "Université adventiste Cosendai de Nanga-Eboko",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université catholique d'Afrique centrale",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université catholique d'Afrique centrale",
+          "category": "universites",
+          "evidence": "Université catholique d'Afrique centrale , Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université protestante d'Afrique centrale",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université protestante d'Afrique centrale",
+          "category": "universites",
+          "evidence": "Université protestante d'Afrique centrale , Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université de l'Équateur",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Ebolowa",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université de l'Équateur",
+          "category": "universites",
+          "evidence": "Université de l'Équateur (Ebolowa)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université internationale Jean Paul II",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bafang",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université internationale Jean Paul II",
+          "category": "universites",
+          "evidence": "Université internationale Jean Paul II, Bafang",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Université internationale de Bertoua (fondée par l'Église catholique)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bertoua",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Université internationale de Bertoua (fondée par l'Église catholique)",
+          "category": "universites",
+          "evidence": "Université internationale de Bertoua (fondée par l'Église catholique)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Complexe universitaire (ESG-ISTA) Douala",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Complexe universitaire (ESG-ISTA) Douala",
+          "category": "universites",
+          "evidence": "Complexe universitaire (ESG-ISTA) Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "The Cameroon Christian University (CCU)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": null,
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "The Cameroon Christian University (CCU)",
+          "category": "universites",
+          "evidence": "The Cameroon Christian University (CCU)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Catholic University of Cameroon",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bamenda",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Catholic University of Cameroon",
+          "category": "universites",
+          "evidence": "Catholic University of Cameroon , Bamenda",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École nationale d'administration et de magistrature (ENAM)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École nationale d'administration et de magistrature (ENAM)",
+          "category": "ecoles et instituts",
+          "evidence": "École nationale d'administration et de magistrature (ENAM), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École nationale supérieure des postes et télécommunications (ENSPT)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École nationale supérieure des postes et télécommunications (ENSPT)",
+          "category": "ecoles et instituts",
+          "evidence": "École nationale supérieure des postes et télécommunications (ENSPT), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École nationale supérieure polytechnique de Yaoundé",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École nationale supérieure polytechnique de Yaoundé",
+          "category": "ecoles et instituts",
+          "evidence": "École nationale supérieure polytechnique de Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Faculté de génie industriel (FGI)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Faculté de génie industriel (FGI)",
+          "category": "ecoles et instituts",
+          "evidence": "Faculté de génie industriel (FGI), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École nationale supérieure polytechnique de Maroua , ex-Institut supérieur du Sahel (ISS)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Maroua",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École nationale supérieure polytechnique de Maroua , ex-Institut supérieur du Sahel (ISS)",
+          "category": "ecoles et instituts",
+          "evidence": "École nationale supérieure polytechnique de Maroua , ex-Institut supérieur du Sahel (ISS)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École normale supérieure de l'enseignement technique de Douala (ENSET)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École normale supérieure de l'enseignement technique de Douala (ENSET)",
+          "category": "ecoles et instituts",
+          "evidence": "École normale supérieure de l'enseignement technique de Douala (ENSET), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École normale supérieure de Yaoundé (ENSY)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École normale supérieure de Yaoundé (ENSY)",
+          "category": "ecoles et instituts",
+          "evidence": "École normale supérieure de Yaoundé (ENSY)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École normale supérieure de Maroua (ENSM)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Maroua",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École normale supérieure de Maroua (ENSM)",
+          "category": "ecoles et instituts",
+          "evidence": "École normale supérieure de Maroua (ENSM)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École normale supérieure de Bertoua (ENSB)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Bertoua",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École normale supérieure de Bertoua (ENSB)",
+          "category": "ecoles et instituts",
+          "evidence": "École normale supérieure de Bertoua (ENSB)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Faculté d'agronomie et des sciences agricoles (FASA)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Dschang",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Faculté d'agronomie et des sciences agricoles (FASA)",
+          "category": "ecoles et instituts",
+          "evidence": "Faculté d'agronomie et des sciences agricoles (FASA), Dschang",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École nationale supérieure de travaux publics (ENSTP)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École nationale supérieure de travaux publics (ENSTP)",
+          "category": "ecoles et instituts",
+          "evidence": "École nationale supérieure de travaux publics (ENSTP), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École militaire inter-Armée (EMIA)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": [
+          {
+            "nomProgramme": "Classes Préparatoires aux Grandes Écoles C.P.G.E (Mathématiques ; Physique; Ingénierie et Informatique ; Physique et Sciences de l’Ingénieur)",
+            "specialite": null,
+            "niveau": null,
+            "sourceEvidence": "Classes Préparatoires aux Grandes Écoles C.P.G.E (Mathématiques ; Physique; Ingénierie et Informatique ; Physique et Sciences de l’Ingénieur)",
+            "sourceUrl": "https://www.minesup.gov.cm/index.php/ecole-internationale-des-sciences-avancees-et-du-management-eisam/"
+          }
+        ]
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École militaire inter-Armée (EMIA)",
+          "category": "ecoles et instituts",
+          "evidence": "École militaire inter-Armée (EMIA), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": {
+          "url": "https://www.minesup.gov.cm/index.php/ecole-internationale-des-sciences-avancees-et-du-management-eisam/",
+          "directoryName": "École Internationale des Sciences Avancées et du Management (EISAM)",
+          "matchScore": 85.5
+        }
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId",
+        "programmes[0].niveau"
+      ],
+      "warnings": []
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École nationale supérieure de police",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École nationale supérieure de police",
+          "category": "ecoles et instituts",
+          "evidence": "École nationale supérieure de police, Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École supérieure des sciences et techniques de l'information et de communication de Yaoundé (ESSTIC)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École supérieure des sciences et techniques de l'information et de communication de Yaoundé (ESSTIC)",
+          "category": "ecoles et instituts",
+          "evidence": "École supérieure des sciences et techniques de l'information et de communication de Yaoundé (ESSTIC)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École supérieure des sciences économiques et commerciales (ESSEC)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École supérieure des sciences économiques et commerciales (ESSEC)",
+          "category": "ecoles et instituts",
+          "evidence": "École supérieure des sciences économiques et commerciales (ESSEC), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut national de la jeunesse et des sports (INJS)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut national de la jeunesse et des sports (INJS)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut national de la jeunesse et des sports (INJS), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut des relations internationales du Cameroun (IRIC)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut des relations internationales du Cameroun (IRIC)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut des relations internationales du Cameroun (IRIC), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut de formation et de recherche démographiques (IFORD, Yaoundé)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut de formation et de recherche démographiques (IFORD, Yaoundé)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut de formation et de recherche démographiques (IFORD, Yaoundé)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut universitaire technologique de Bandjoun (IUT Fotso Victor)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": null,
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut universitaire technologique de Bandjoun (IUT Fotso Victor)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut universitaire technologique de Bandjoun (IUT Fotso Victor)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut universitaire technologique de Douala",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut universitaire technologique de Douala",
+          "category": "ecoles et instituts",
+          "evidence": "Institut universitaire technologique de Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut universitaire technologique de Ngaoundéré",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Ngaoundéré",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut universitaire technologique de Ngaoundéré",
+          "category": "ecoles et instituts",
+          "evidence": "Institut universitaire technologique de Ngaoundéré",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École nationale supérieure d'agro-industrie de Ngaoundéré (ENSAI)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Ngaoundéré",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École nationale supérieure d'agro-industrie de Ngaoundéré (ENSAI)",
+          "category": "ecoles et instituts",
+          "evidence": "École nationale supérieure d'agro-industrie de Ngaoundéré (ENSAI)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École de géologie et d'exploitation minière de Meiganga (EGEM) situé à 159 km de Ngaoundéré",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Ngaoundéré",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École de géologie et d'exploitation minière de Meiganga (EGEM) situé à 159 km de Ngaoundéré",
+          "category": "ecoles et instituts",
+          "evidence": "École de géologie et d'exploitation minière de Meiganga (EGEM) situé à 159 km de Ngaoundéré",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut de mines et des industries pétrolières de Kaélé (IMIF) situé à 67 km de Maroua",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Maroua",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut de mines et des industries pétrolières de Kaélé (IMIF) situé à 67 km de Maroua",
+          "category": "ecoles et instituts",
+          "evidence": "Institut de mines et des industries pétrolières de Kaélé (IMIF) situé à 67 km de Maroua",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École supérieure de traducteurs et interprètes de Buea (ASIF : advanced school of translators and interpretors)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Buéa",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École supérieure de traducteurs et interprètes de Buea (ASIF : advanced school of translators and interpretors)",
+          "category": "ecoles et instituts",
+          "evidence": "École supérieure de traducteurs et interprètes de Buea (ASIF : advanced school of translators and interpretors)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut des beaux-arts de Nkongsamba (IBAN)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Nkongsamba",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut des beaux-arts de Nkongsamba (IBAN)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut des beaux-arts de Nkongsamba (IBAN)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut des beaux-arts de Foumban (IBAF) (en construction)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Foumban",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut des beaux-arts de Foumban (IBAF) (en construction)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut des beaux-arts de Foumban (IBAF) (en construction)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut sous-régional de statistique et d'économie appliquée (ISSEA)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut sous-régional de statistique et d'économie appliquée (ISSEA)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut sous-régional de statistique et d'économie appliquée (ISSEA), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur de technologie médicale (ISTM)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur de technologie médicale (ISTM)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur de technologie médicale (ISTM), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École des sciences et de médecine vétérinaire (ESMV)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Ngaoundéré",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École des sciences et de médecine vétérinaire (ESMV)",
+          "category": "ecoles et instituts",
+          "evidence": "École des sciences et de médecine vétérinaire (ESMV), Ngaoundéré",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École nationale des eaux et forêts (ENEF)",
+        "domaine": null,
+        "ees_type": "PUBLIC",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": "MINESUP",
+        "villeNameCandidate": "Mbalmayo",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École nationale des eaux et forêts (ENEF)",
+          "category": "ecoles et instituts",
+          "evidence": "École nationale des eaux et forêts (ENEF), Mbalmayo",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut JACKY FELLY NAFACK INSTITUT OF TECHNOLOGY (JFN-IT)/ DOUALA",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut JACKY FELLY NAFACK INSTITUT OF TECHNOLOGY (JFN-IT)/ DOUALA",
+          "category": "ecoles et instituts",
+          "evidence": "Institut JACKY FELLY NAFACK INSTITUT OF TECHNOLOGY (JFN-IT)/ DOUALA",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Universitaire Protestant de Yaoundé, Djoungolo / Yaoundé",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Universitaire Protestant de Yaoundé, Djoungolo / Yaoundé",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Universitaire Protestant de Yaoundé, Djoungolo / Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Supérieur des Sciences et Techniques de la Santé / École Privée des Infirmiers et Sage-femme (ISSTS - EPIG) de Garoua",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Garoua",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Supérieur des Sciences et Techniques de la Santé / École Privée des Infirmiers et Sage-femme (ISSTS - EPIG) de Garoua",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Supérieur des Sciences et Techniques de la Santé / École Privée des Infirmiers et Sage-femme (ISSTS - EPIG) de Garoua",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Universitaire des Grandes Ecoles des Tropiques (IUGET à 3 écoles (ISTTI, SP, SHS)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Universitaire des Grandes Ecoles des Tropiques (IUGET à 3 écoles (ISTTI, SP, SHS)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Universitaire des Grandes Ecoles des Tropiques (IUGET à 3 écoles (ISTTI, SP, SHS), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut PrépaVogt (Ingénierie, Management et Finance, Lettres & Sciences Politiques)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut PrépaVogt (Ingénierie, Management et Finance, Lettres & Sciences Politiques)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut PrépaVogt (Ingénierie, Management et Finance, Lettres & Sciences Politiques), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Classe préparatoire semi-intégrée (Sup'Prepa)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Classe préparatoire semi-intégrée (Sup'Prepa)",
+          "category": "ecoles et instituts",
+          "evidence": "Classe préparatoire semi-intégrée (Sup'Prepa), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Complexe universitaire 2IE (INSAM-ISSAS-EFPSA)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Complexe universitaire 2IE (INSAM-ISSAS-EFPSA)",
+          "category": "ecoles et instituts",
+          "evidence": "Complexe universitaire 2IE (INSAM-ISSAS-EFPSA), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Douala Institute of Technology (DIT)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Douala Institute of Technology (DIT)",
+          "category": "ecoles et instituts",
+          "evidence": "Douala Institute of Technology (DIT), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École d'ingénierie industrielle de Bangangté (E2İ)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bangangté",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École d'ingénierie industrielle de Bangangté (E2İ)",
+          "category": "ecoles et instituts",
+          "evidence": "École d'ingénierie industrielle de Bangangté (E2İ)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École privée de formation des personnels sanitaires (EFPSA)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École privée de formation des personnels sanitaires (EFPSA)",
+          "category": "ecoles et instituts",
+          "evidence": "École privée de formation des personnels sanitaires (EFPSA), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École supérieure des sciences et techniques de Douala (ESSET)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École supérieure des sciences et techniques de Douala (ESSET)",
+          "category": "ecoles et instituts",
+          "evidence": "École supérieure des sciences et techniques de Douala (ESSET), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Universitaire du Golfe de Guinée (IUG)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Universitaire du Golfe de Guinée (IUG)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Universitaire du Golfe de Guinée (IUG), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Ecole Supérieure de Gestion (ESG)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Ecole Supérieure de Gestion (ESG)",
+          "category": "ecoles et instituts",
+          "evidence": "Ecole Supérieure de Gestion (ESG), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École d'ingénieurs d'Afrique centrale (EINAC)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École d'ingénieurs d'Afrique centrale (EINAC)",
+          "category": "ecoles et instituts",
+          "evidence": "École d'ingénieurs d'Afrique centrale (EINAC), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Supérieur des Technologies Avancées (IUG/ISTA)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Supérieur des Technologies Avancées (IUG/ISTA)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Supérieur des Technologies Avancées (IUG/ISTA), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "École supérieure multinationale des télécommunications (ESMT) de Dakar, Yaoundé (représentation au Cameroun)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "École supérieure multinationale des télécommunications (ESMT) de Dakar, Yaoundé (représentation au Cameroun)",
+          "category": "ecoles et instituts",
+          "evidence": "École supérieure multinationale des télécommunications (ESMT) de Dakar, Yaoundé (représentation au Cameroun)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Fonab Polytechnic",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bamenda",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Fonab Polytechnic",
+          "category": "ecoles et instituts",
+          "evidence": "Fonab Polytechnic, Bamenda",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Groupe HEC Douala",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": [
+          {
+            "nomProgramme": "Commerce et Gestion : Comptabilité et Gestion des Entreprises – Informatique de Gestion – Action Commerciale – Secrétariat et Bureautique ( Options : Secrétariat de Direction ; Secrétariat Bureautique Bilingue)",
+            "specialite": null,
+            "niveau": "BTS",
+            "sourceEvidence": "Commerce et Gestion : Comptabilité et Gestion des Entreprises – Informatique de Gestion – Action Commerciale – Secrétariat et Bureautique ( Options : Secrétariat de Direction ; Secrétariat Bureautique Bilingue)",
+            "sourceUrl": "https://minesup.gov.cm/index.php/region-de-louest/groupe-tankou-enseignement-superieur-gtes/"
+          }
+        ]
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Groupe HEC Douala",
+          "category": "ecoles et instituts",
+          "evidence": "Groupe HEC Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": {
+          "url": "https://minesup.gov.cm/index.php/region-de-louest/groupe-tankou-enseignement-superieur-gtes/",
+          "directoryName": "Groupe Tankou Enseignement Supérieur (GTES)",
+          "matchScore": 85.5
+        }
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": []
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Groupe HEC Yaoundé",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Groupe HEC Yaoundé",
+          "category": "ecoles et instituts",
+          "evidence": "Groupe HEC Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Hautes études commerciales (HEC) ; Douala",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Hautes études commerciales (HEC) ; Douala",
+          "category": "ecoles et instituts",
+          "evidence": "Hautes études commerciales (HEC) ; Douala, Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Ucac-Icam (ex IST-AC)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Ucac-Icam (ex IST-AC)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Ucac-Icam (ex IST-AC) , Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur de l'informatique et de la communication (ISICOM) ; Douala",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur de l'informatique et de la communication (ISICOM) ; Douala",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur de l'informatique et de la communication (ISICOM) ; Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur des traducteurs et interprètes de Yaoundé (ISTI)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur des traducteurs et interprètes de Yaoundé (ISTI)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur des traducteurs et interprètes de Yaoundé (ISTI)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut universitaire des sciences technologiques Nanfack",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Dschang",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut universitaire des sciences technologiques Nanfack",
+          "category": "ecoles et instituts",
+          "evidence": "Institut universitaire des sciences technologiques Nanfack, Dschang",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur Kemvouk",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Dschang",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur Kemvouk",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur Kemvouk, Dschang",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut universitaire sous-régional bilingue des mines, sciences, technologies, management et formations professionnelles - Yaoundé",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut universitaire sous-régional bilingue des mines, sciences, technologies, management et formations professionnelles - Yaoundé",
+          "category": "ecoles et instituts",
+          "evidence": "Institut universitaire sous-régional bilingue des mines, sciences, technologies, management et formations professionnelles - Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut universitaire des sciences pétrolières et de management, Yaoundé (IUSPM)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut universitaire des sciences pétrolières et de management, Yaoundé (IUSPM)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut universitaire des sciences pétrolières et de management, Yaoundé (IUSPM)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut de l'entreprise et du management (IME)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut de l'entreprise et du management (IME)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut de l'entreprise et du management (IME), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut de management et de l'entrepreneuriat (ISEM)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut de management et de l'entrepreneuriat (ISEM)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut de management et de l'entrepreneuriat (ISEM), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institute of management and entrepreneurship (IME)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institute of management and entrepreneurship (IME)",
+          "category": "ecoles et instituts",
+          "evidence": "Institute of management and entrepreneurship (IME), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "ISEIG - Institut des sciences économiques et informatique de gestion",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "ISEIG - Institut des sciences économiques et informatique de gestion",
+          "category": "ecoles et instituts",
+          "evidence": "ISEIG - Institut des sciences économiques et informatique de gestion, Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Panafricain pour le Développement-Afrique Centrale (IPD-AC)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Panafricain pour le Développement-Afrique Centrale (IPD-AC)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Panafricain pour le Développement-Afrique Centrale (IPD-AC), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur des beaux-arts Cheikh Anta Diop (ISBAC)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur des beaux-arts Cheikh Anta Diop (ISBAC)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur des beaux-arts Cheikh Anta Diop (ISBAC), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur des affaires et de management (INSAM)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur des affaires et de management (INSAM)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur des affaires et de management (INSAM), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur des sciences appliquées à la santé (ISSAS)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": [
+          {
+            "nomProgramme": "Professions Médicales et Médico-Sanitaires",
+            "specialite": "Soins Infirmiers – Imagerie Médicale – Technique de Laboratoire Médicale – Santé de Reproduction – Etudes Médicales – Etudes Pharmaceutiques – Physiothérapie – Kinésithérapie",
+            "niveau": null,
+            "sourceEvidence": "Professions Médicales et Médico-Sanitaires — Spécialités : Soins Infirmiers – Imagerie Médicale – Technique de Laboratoire Médicale – Santé de Reproduction – Etudes Médicales – Etudes Pharmaceutiques – Physiothérapie – Kinésithérapie",
+            "sourceUrl": "https://minesup.gov.cm/index.php/institut-superieur-des-sciences-appliquees-a-la-santeinssas/"
+          }
+        ]
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur des sciences appliquées à la santé (ISSAS)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur des sciences appliquées à la santé (ISSAS), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": {
+          "url": "https://minesup.gov.cm/index.php/institut-superieur-des-sciences-appliquees-a-la-santeinssas/",
+          "directoryName": "Institut Supérieur des Sciences Appliquées à la Santé (INSSAS)",
+          "matchScore": 92.6829268292683
+        }
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId",
+        "programmes[0].niveau"
+      ],
+      "warnings": []
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Siantou supérieur de Yaoundé",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Siantou supérieur de Yaoundé",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Siantou supérieur de Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Samba supérieur de Yaoundé",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Samba supérieur de Yaoundé",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Samba supérieur de Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur de technologie médicale, Yaoundé (ISTMY)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur de technologie médicale, Yaoundé (ISTMY)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur de technologie médicale, Yaoundé (ISTMY)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur de management du Manengouba",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Nkongsamba",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur de management du Manengouba",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur de management du Manengouba, Nkongsamba",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur de technologie et de design industriel",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur de technologie et de design industriel",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur de technologie et de design industriel, Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur professionnel",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur professionnel",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur professionnel, Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur de management (ISMA)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur de management (ISMA)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur de management (ISMA), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Supérieur de Gestion et de Technologies (ISGET)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Supérieur de Gestion et de Technologies (ISGET)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Supérieur de Gestion et de Technologies (ISGET), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur de l'informatique et du commerce (ISICO)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur de l'informatique et du commerce (ISICO)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur de l'informatique et du commerce (ISICO), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur de gestion et d'économie appliquée (SupG'ECO)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bafoussam",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur de gestion et d'économie appliquée (SupG'ECO)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur de gestion et d'économie appliquée (SupG'ECO), Bafoussam",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur professeurs réunis",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": null,
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur professeurs réunis",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur professeurs réunis",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Supérieur de Bafoussam (ISB)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": [
+          {
+            "nomProgramme": "Professions Médico- Sanitaires",
+            "specialite": "Soins Infirmiers – Imagerie Médicale – Kinésithérapie – Technique de Laboratoire Médicale – Odontostomatologie – Etudes Pharmaceutiques",
+            "niveau": "DSEP",
+            "sourceEvidence": "Professions Médico- Sanitaires — Spécialités : Soins Infirmiers – Imagerie Médicale – Kinésithérapie – Technique de Laboratoire Médicale – Odontostomatologie – Etudes Pharmaceutiques",
+            "sourceUrl": "https://minesup.gov.cm/index.php/region-de-louest/8-informations-didentification-nom-de-linstitution-institut-superieur-de-bafoussam-nom-du-promoteur-tahofo-tanguieng-dieudonne-region-ouest-departement-mifi-arrondissement/"
+          }
+        ]
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bafoussam",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Supérieur de Bafoussam (ISB)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Supérieur de Bafoussam (ISB), Bafoussam",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": {
+          "url": "https://minesup.gov.cm/index.php/region-de-louest/8-informations-didentification-nom-de-linstitution-institut-superieur-de-bafoussam-nom-du-promoteur-tahofo-tanguieng-dieudonne-region-ouest-departement-mifi-arrondissement/",
+          "directoryName": "Institut Supérieur de Bafoussam",
+          "matchScore": 95.0
+        }
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": []
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "ISTG-AC:Institut supérieur de technologie et de gestion d'Afrique centrale",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": null,
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "ISTG-AC:Institut supérieur de technologie et de gestion d'Afrique centrale",
+          "category": "ecoles et instituts",
+          "evidence": "ISTG-AC:Institut supérieur de technologie et de gestion d'Afrique centrale",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Supérieur de Technologies Appliquées et de Gestion (ISTAG)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": [
+          {
+            "nomProgramme": "Commerciale et de Gestion",
+            "specialite": "Action Commerciale – Commerce International – Comptabilité et Gestion des Entreprises – Informatique de Gestion – Secrétariat et Bureautique ( Options : Secrétariat de Direction – Secrétariat Bureautique Bilingue) – Banque – Gestion Logistique et Transport",
+            "niveau": "BTS",
+            "sourceEvidence": "Commerciale et de Gestion — Spécialités : Action Commerciale – Commerce International – Comptabilité et Gestion des Entreprises – Informatique de Gestion – Secrétariat et Bureautique ( Options : Secrétariat de Direction – Secrétariat Bureautique Bilingue) – Banque – Gestion Logistique et Transport",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Communication",
+            "specialite": "Information – Communication ( Options : Communication d’Entreprise ; Journalisme)",
+            "niveau": "BTS",
+            "sourceEvidence": "Communication — Spécialités : Information – Communication ( Options : Communication d’Entreprise ; Journalisme)",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Professions Médico-Sanitaires",
+            "specialite": "Techniques de Laboratoire médicale – Soins Infirmiers – Kinésithérapie – Sage-Femme – Imagerie Médicale",
+            "niveau": "DSEP",
+            "sourceEvidence": "Professions Médico-Sanitaires — Spécialités : Techniques de Laboratoire médicale – Soins Infirmiers – Kinésithérapie – Sage-Femme – Imagerie Médicale",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Génie biologique et Environnement",
+            "specialite": "Diététique et Industrie Alimentaire – Analyse Biologique et Biochimique",
+            "niveau": "DSEP",
+            "sourceEvidence": "Génie biologique et Environnement — Spécialités : Diététique et Industrie Alimentaire – Analyse Biologique et Biochimique",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Marketing Commerce Vente",
+            "specialite": null,
+            "niveau": "DSEP",
+            "sourceEvidence": "Marketing Commerce Vente",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Expertise Comptable",
+            "specialite": null,
+            "niveau": "DSEP",
+            "sourceEvidence": "Expertise Comptable",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Finance et Comptabilité",
+            "specialite": null,
+            "niveau": "DSEP",
+            "sourceEvidence": "Finance et Comptabilité",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Banque",
+            "specialite": null,
+            "niveau": "DSEP",
+            "sourceEvidence": "Banque",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Informatique",
+            "specialite": "Informatique de Gestion",
+            "niveau": "DSEP",
+            "sourceEvidence": "Informatique — Spécialités : Informatique de Gestion",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          },
+          {
+            "nomProgramme": "Gestion des Entreprise et des Administrations",
+            "specialite": "Ressources Humaines – Petites et Moyennes Organisations",
+            "niveau": "DSEP",
+            "sourceEvidence": "Gestion des Entreprise et des Administrations — Spécialités : Ressources Humaines – Petites et Moyennes Organisations",
+            "sourceUrl": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/"
+          }
+        ]
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Supérieur de Technologies Appliquées et de Gestion (ISTAG)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Supérieur de Technologies Appliquées et de Gestion (ISTAG), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": {
+          "url": "https://minesup.gov.cm/index.php/centre/institut-superieur-de-technologie-appliquee-et-de-gestion-istag/",
+          "directoryName": "Institut Supérieur de Technologie Appliquée et de Gestion (ISTAG).",
+          "matchScore": 97.74436090225565
+        }
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": []
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut Supérieur Matamfen (ISMAT)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut Supérieur Matamfen (ISMAT)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut Supérieur Matamfen (ISMAT), Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "PanAfrican Institute for Development-West Africa (PAID-WA),Buea",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Buéa",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "PanAfrican Institute for Development-West Africa (PAID-WA),Buea",
+          "category": "ecoles et instituts",
+          "evidence": "PanAfrican Institute for Development-West Africa (PAID-WA),Buea",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "PKFokam institute of Excellence",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "PKFokam institute of Excellence",
+          "category": "ecoles et instituts",
+          "evidence": "PKFokam institute of Excellence , Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Sabena Flight Academy Africa (SFA-A)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Douala",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Sabena Flight Academy Africa (SFA-A)",
+          "category": "ecoles et instituts",
+          "evidence": "Sabena Flight Academy Africa (SFA-A), Douala",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Saint Louis institute of health",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Bamenda",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Saint Louis institute of health",
+          "category": "ecoles et instituts",
+          "evidence": "Saint Louis institute of health, Bamenda",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "Institut supérieur des management et Sciences Appliquées Hermès (ISMASAH)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Yaoundé",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "Institut supérieur des management et Sciences Appliquées Hermès (ISMASAH)",
+          "category": "ecoles et instituts",
+          "evidence": "Institut supérieur des management et Sciences Appliquées Hermès (ISMASAH),Yaoundé",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "IUC (institut universitaire de la côte",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": null,
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "IUC (institut universitaire de la côte",
+          "category": "ecoles et instituts",
+          "evidence": "IUC (institut universitaire de la côte",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Plusieurs fiches MINESUP ressemblent à cet EES : association à vérifier.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    },
+    {
+      "reviewStatus": "PENDING_ADMIN_REVIEW",
+      "formData": {
+        "nom_ees": "INSTITUT SUPÉRIEUR DU SEPTENTRION DE GAROUA (ISSEG)",
+        "domaine": null,
+        "ees_type": "PRIVE",
+        "site_ees": null,
+        "ees_bio": null,
+        "programmes": []
+      },
+      "relationsToResolve": {
+        "tutelleNameCandidate": null,
+        "villeNameCandidate": "Garoua",
+        "paysNameCandidate": "Cameroun",
+        "tutelleId": null,
+        "villeId": null
+      },
+      "source": {
+        "wikipedia": {
+          "url": "https://fr.wikipedia.org/wiki/Enseignement_sup%C3%A9rieur_au_Cameroun",
+          "nameOnWikipedia": "INSTITUT SUPÉRIEUR DU SEPTENTRION DE GAROUA (ISSEG)",
+          "category": "ecoles et instituts",
+          "evidence": "INSTITUT SUPÉRIEUR DU SEPTENTRION DE GAROUA (ISSEG)",
+          "bioUrl": null,
+          "bioLicense": "CC BY-SA 4.0"
+        },
+        "minsup": null
+      },
+      "missingRequiredFields": [
+        "domaine",
+        "tutelleId",
+        "villeId"
+      ],
+      "warnings": [
+        "Aucune fiche MINESUP n'a été associée automatiquement.",
+        "Aucun programme n'a été extrait d'une fiche MINESUP."
+      ]
+    }
+  ]
+}
